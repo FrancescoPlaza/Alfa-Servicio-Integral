@@ -1,0 +1,11 @@
+Total de Pantallas: 9
+1_ AdminAlfaServicioIntegral: Pantalla de Login a Administrador
+2_ AdminMenu: Opciones/Alternativas a efectuar en Administrador
+3_ CreateServicio: Pantalla de creaciòn de servicio para su guardado en Firebase Storage, y su publicacion en Muro Principal de Alfa Servicio Integral App
+4_ Info: Pantalla de Informacion de Servicio luego de Onclick en servicio del muro principal de Alfa.
+5_ Main_View: Muro Principal de Alfa Servicio Integral con exhibicion de Servicios en forma de Lista , con integracion de Texto e Imagen: Titulo, Subtitulo y Denominacion.
+6_ MuchasGraciasPorSuSolicitud: Pantalla de Agradecimiento luego de solicitar servicio como usuario desde el muro principal de Alfa.
+7_ PhotoEditor: Cropper activado luego de subir una foto a la App en funcion de editar y recortar la imagen para su posterior utilizacion en Lista de Muro Principal de Alfa.
+8_ ServiciosAdmin: Lista de Servicios en formato Administrador para su opcional Eliminacion del Servicio por parte de los Administradores de Alfa Servicio Integral.
+9_ Solicitud de Servicio: Lista de Solicitudes por parte de los Usuarios de Alfa con su Visualizacion por parte de los Administradores de Alfa. 
+Tambien con Administracion en caso de satisfacer la solicitud, su eliminacion de la lista de solicitudes.
